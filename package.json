@@ -40,7 +40,6 @@
     "verror": "1.6.0"
   },
   "optionalDependencies": {
-    "dtrace-provider": "0.6.0"
   },
   "devDependencies": {
     "node-uuid": "1.4.3",
